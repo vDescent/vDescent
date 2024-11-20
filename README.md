@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vDescent (Timotius Priestian Rajaska)
 - 👀 I’m interested in FrontEnd Developer
-- 🌱 I’m currently learning FrontEnd Developer specifically in React.
+- 🌱 I’m currently learning FrontEnd Developer.
 - 😄 Pronouns: Learner.
 
 <!---
