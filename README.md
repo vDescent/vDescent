@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning backend Developer.
 - 😄 Pronouns: 
 - Learner.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdescent)](https://github.com/vdescent/github-readme-stats)
-
-
+\
+<p align="center"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vDescent&theme=tokyonight&hide_border=true"/>
+</p>
 <!---
 vDescent/vDescent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
