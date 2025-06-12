@@ -5,7 +5,7 @@
 - Learner.
 \
 <p align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vDescent&theme=tokyonight&hide_border=true"/>
+![vdescent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vdescent&theme=tokyonight&hide_border=true)
 </p>
 <!---
 vDescent/vDescent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
