@@ -4,7 +4,7 @@
 
 <div align="center">
 <!--   <img height="400" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif"  /> -->
-  <img height="400" src="https://github.com/vDescent/for-readme/tree/main/gif/Chapter2A.mp4.gif"  />
+  <img height="550" src="https://raw.githubusercontent.com/vDescent/for-readme/main/gif/chapter2a.gif"  />
 </div>
 
 ###
