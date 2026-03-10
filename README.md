@@ -1,4 +1,4 @@
-<p align="left">👋 Yo, I’m @vDescent.<br>👀 I’m interested in overall tech.<br>🌱 I’m currently learning backend Developer.</p>
+<p align="left">👋 Yo, I’m @vDescent.<br>👀 I’m interested in web dev.<br>🌱 I’m currently learn and delve deep into it</p>
 
 ###
 
