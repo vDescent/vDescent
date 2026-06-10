@@ -1,4 +1,4 @@
-<p align="left">👋 Yo, I’m @vDescent.<br>👀 I’m interested in web dev.<br>🌱 I’m currently learn and delve deep into it</p>
+<!-- <p align="left">👋 Yo, I’m @vDescent.<br>👀 I’m interested in web dev.<br>🌱 I’m currently learn and delve deep into it</p> -->
 
 ###
 
@@ -9,9 +9,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=vdescent&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
 
